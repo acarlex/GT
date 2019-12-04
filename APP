@@ -1,0 +1,512 @@
+<div style="margin-bottom:20px;">
+<p style="margin-top:0px;margin-bottom:8px;font-size:9px;font-family:Times;color:#621;letter-spacing:1.1px;text-transform:uppercase;text-align:justify;">❊ Scroll left-right for pages of app (six total)<br />
+❊&nbsp;scroll up/down within pages</p>
+
+<p style="margin-top:0px;margin-bottom:0px;font-size:9px;font-family:Times;color:#621;letter-spacing:1.1px;text-transform:uppercase;text-align:justify;">❊ colors scheme can be changed</p>
+
+<p style="margin-top:0px;margin-bottom:8px;font-size:9px;font-family:Times;color:rgb(102,34,17);letter-spacing:1.1px;text-transform:uppercase;text-align:justify;margin-left:40px;"><strong>【&nbsp;<span style="font-family:'Courier New';">#EEC</span>&nbsp;】:</strong><em>&nbsp;borders &amp; some parts of text</em><br />
+<strong>【&nbsp;<span style="font-family:'Courier New';">#EEC</span>&nbsp;】:</strong><em>&nbsp;remaining text &amp; NUMBERINGS</em><br />
+<strong>【&nbsp;<span style="font-family:'Courier New';">#621</span>&nbsp;】:</strong><em>&nbsp;background color of whole</em><br />
+<strong>【&nbsp;<span style="font-family:'Courier New';">#888</span>&nbsp;】:</strong><em>&nbsp;background color of floating images</em></p>
+
+<p style="margin-top:0px;margin-bottom:8px;font-size:9px;font-family:Times;color:#621;letter-spacing:1.1px;text-transform:uppercase;text-align:justify;">❊ CLICK IMAGES TO CHANGE them; dimensions (width-x-height) in alt text<br />
+❊ layout may be fragile; private message me if i can help you</p>
+
+<p style="margin-top:0px;margin-bottom:8px;font-size:9px;font-family:Times;color:#621;letter-spacing:1.1px;text-transform:uppercase;text-align:justify;">❊ add pointers to this section as needed<br />
+❊ delete these pointers (the whole first div) when done editing</p>
+</div>
+
+<div style="width:800px;height:400px;background-color:#621;margin:0px auto;overflow:hidden;">
+<div style="width:800px;height:400px;opacity:.07;">
+<div style="width:800px;height:400px;"><img alt="" src="https://i.imgur.com/1OZjTUC.jpg" style="width:400px;height:400px;" /><img alt="" src="https://i.imgur.com/1OZjTUC.jpg" style="width:400px;height:400px;" /></div>
+</div>
+
+<div style="width:760px;height:360px;margin:-400px auto 0px auto;padding:20px;">
+<div style="width:760px;height:360px;border:1px solid #eec;opacity:.999;">
+<div style="width:800px;height:400px;margin-top:-20px;margin-left:-20px;overflow:hidden;">
+<div style="width:800px;height:420px;overflow:auto;">
+<div style="float:left;width:5460px;height:400px;">
+<div style="float:left;width:760px;height:360px;margin-left:20px;">
+<div style="width:100px;height:70px;margin:155px auto 0px auto;border-top:4px double #ffd;border-bottom:4px double #ffd;text-align:center;">&nbsp;</div>
+
+<div style="width:400px;height:110px;margin:-63px auto 90px auto;opacity:.8;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;text-align:center;"><strong><span style="font-size:14px;">FULL NAME</span><span style="font-size:9px;">&nbsp;</span>(<em>AGE.</em>)<br />
+<em>[title]&nbsp;of&nbsp;[kingdom].</em></strong></div>
+
+<div style="width:90px;height:90px;margin-top:-300px;margin-left:60px;background-color:#000;opacity:.9;">BG-BIT</div>
+
+<div style="width:90px;height:90px;margin-top:-95px;margin-left:55px;background-color:#888;opacity:.9999;"><img alt="FACECLAIM : 90 x 90" src="https://i.imgur.com/mLbZbHp.png" style="width:90px;height:90px;opacity:.8;" /></div>
+
+<div style="width:90px;height:90px;margin-top:-25px;margin-left:570px;background-color:#000;opacity:.9;">BG-BIT</div>
+
+<div style="width:90px;height:90px;margin-top:-95px;margin-left:565px;background-color:#888;opacity:.9999;"><img alt="FACECLAIM : 90 x 90" src="https://i.imgur.com/mLbZbHp.png" style="width:90px;height:90px;opacity:.8;" /></div>
+
+<div style="width:90px;height:90px;margin-top:35px;margin-left:150px;background-color:#000;opacity:.9;">BG-BIT</div>
+
+<div style="width:90px;height:90px;margin-top:-95px;margin-left:145px;background-color:#888;opacity:.9999;"><img alt="FACECLAIM : 90 x 90" src="https://i.imgur.com/mLbZbHp.png" style="width:90px;height:90px;opacity:.8;" /></div>
+</div>
+
+<div style="float:left;width:760px;height:400px;">
+<div style="width:580px;height:310px;margin:50px auto 0px auto;background:#000;opacity:.35;">,</div>
+
+<div style="width:580px;height:265px;margin:-290px auto;overflow:hidden;opacity:.8;">
+<div style="width:600px;height:265px;overflow:auto;">
+<div style="float:left;width:500px;height:auto;padding:0px 40px;font-size:8px;font-family:Times;color:rgb(255,255,221);letter-spacing:1.1px;text-transform:uppercase;text-align:justify;">
+<p style="margin-top:85px;margin-bottom:0px;text-align:left;"><strong>NAME :</strong><em> ---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>BIRTHDAY &amp; AGE :</strong><em> MONTH DATE (AGE)</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>gender :</strong><em>&nbsp;---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>nicknames&nbsp;:</strong><em>&nbsp;</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【&nbsp;NAME&nbsp;】:</strong>&nbsp;<em>explanation</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【&nbsp;NAME&nbsp;】:</strong>&nbsp;<em>explanation</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【&nbsp;NAME&nbsp;】:</strong>&nbsp;<em>explanation (copy-paste as many of these as you need)</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>kingdom :</strong><em> ---, ---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>FACE CLAIM&nbsp;:</strong><em> ---, ---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>height &amp; weight :</strong><em> ###cm &amp; ##kg (##ft &amp; ##lbs)</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>APPEARANCE&nbsp;:</strong><em>&nbsp;describe how they look, including any differences from the face claim. list whatever piercings or tattoos they may have.</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>style :</strong><em> describe their fashion in different circumstances and whether their preferences may differ from what they actually wear. pictures are optional.</em></p>
+</div>
+</div>
+</div>
+
+<div style="width:50px;height:30px;margin-top:10px;margin-left:65px;font-size:18px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;text-align:center;opacity:.9;"><strong>【1】</strong></div>
+
+<div style="width:auto;height:100px;margin-top:-45px;opacity:.9999;text-align:center;"><img alt="FACECLAIM : ANYx90" src="https://i.imgur.com/ma05F7M.png" style="width:295px;height:90px;margin:0px 3px;border:1px solid rgb(238,238,204);padding:3px;opacity:.8;" /></div>
+</div>
+
+<div style="float:left;width:760px;height:400px;">
+<div style="width:580px;height:300px;margin:50px auto 0px auto;background:#000;opacity:.35;">,</div>
+
+<div style="width:580px;height:260px;margin:-280px auto;overflow:hidden;opacity:.8;">
+<div style="width:600px;height:260px;overflow:auto;">
+<div style="float:left;width:500px;height:auto;padding:0px 40px;font-size:8px;font-family:Times;color:rgb(255,255,221);letter-spacing:1.1px;text-transform:uppercase;text-align:justify;">
+<p style="margin-top:30px;margin-bottom:0px;text-align:center;"><span style="font-size:14px;"><strong>PERSONALITY</strong></span><span style="font-size:9px;"><strong>&nbsp;</strong></span>(<em>N.</em>)</p>
+
+<p style="margin-top:-3px;margin-bottom:0px;text-align:center;"><em>❝ character quote. max length: one line.&nbsp;❞</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;text-align:center;">/ / /</p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>traits :</strong><em> </em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【<span style="letter-spacing:1.3px;">&nbsp;pos&nbsp;</span>】:</strong>&nbsp;<em>three to six positive traits</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【&nbsp;neg 】:</strong>&nbsp;<em>three to six negative traits</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【&nbsp;neu 】:</strong>&nbsp;<em>three to six neutral traits</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>PERSONALITY :</strong><em> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;text-align:center;">/ / /</p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>tRIVIA&nbsp;:</strong><em> </em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【&nbsp;likes 】:</strong>&nbsp;<em>list</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【 dislikes 】:</strong>&nbsp;<em>list</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【&nbsp;habits 】:</strong>&nbsp;<em>list</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【 hobbies&nbsp;】:</strong>&nbsp;<em>list</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【 misc&nbsp;】:</strong>&nbsp;<em>list</em></p>
+</div>
+</div>
+</div>
+
+<div style="width:50px;height:30px;margin-top:10px;margin-left:65px;font-size:18px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;text-align:center;opacity:.9;"><strong>【2】</strong></div>
+</div>
+
+<div style="float:left;width:760px;height:400px;">
+<div style="width:580px;height:300px;margin:50px auto 0px auto;background:#000;opacity:.35;">,</div>
+
+<div style="width:580px;height:260px;margin:-280px auto;overflow:hidden;opacity:.8;">
+<div style="width:600px;height:260px;overflow:auto;">
+<div style="float:left;width:500px;height:auto;padding:0px 40px;font-size:8px;font-family:Times;color:rgb(255,255,221);letter-spacing:1.1px;text-transform:uppercase;text-align:justify;">
+<p style="margin-top:30px;margin-bottom:0px;text-align:center;"><span style="font-size:14px;"><strong>BACKGROUND</strong></span><span style="font-size:9px;"><strong>&nbsp;</strong></span>(<em>N.</em>)</p>
+
+<p style="margin-top:-3px;margin-bottom:0px;text-align:center;"><em>❝ character quote. max length: one line.&nbsp;❞</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;text-align:center;">/ / /</p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>timeline&nbsp;:</strong><em>&nbsp;briefly list major periods or events since their crowning or ends of stories (aka movies) that leads to current day. can change format and be as detailed as you&#39;d like.</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【&nbsp;event/date 】:</strong>&nbsp;<em>---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【&nbsp;event/date 】:</strong>&nbsp;<em>---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【 event/date 】:</strong>&nbsp;<em>---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>current :</strong><em> what&#39;s happening now in their life? where do you want me to pick up from once the story starts? can be super brief.</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;text-align:center;">/ / /</p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>question :</strong><em>&nbsp;are you living happily ever after?</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【&nbsp;answer 】:</strong>&nbsp;<em>answer as your character would.</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>question :</strong><em>&nbsp;what makes your relationship work? otherwise, what&#39;s lacking or the problem?</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【&nbsp;answer 】:</strong>&nbsp;<em>answer as your character would.</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>question :</strong><em>&nbsp;is there anything you wish to clear up about yourself or say to someone in another kingdom?</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【&nbsp;answer 】:</strong>&nbsp;<em>answer as your character would.</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>question :</strong><em>&nbsp;who do <strong><u>you</u></strong> believe is the fairest of them all? not limited to the queens/princesses, fyi.</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【&nbsp;answer 】:</strong>&nbsp;<em>answer as your character would.</em></p>
+</div>
+</div>
+</div>
+
+<div style="width:50px;height:30px;margin-top:10px;margin-left:65px;font-size:18px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;text-align:center;opacity:.9;"><strong>【3】</strong></div>
+</div>
+
+<div style="float:left;width:860px;height:400px;">
+<div style="width:680px;height:330px;margin:35px auto 0px auto;overflow:hidden;opacity:.9999;">
+<div style="width:700px;height:330px;overflow:auto;">
+<div style="float:left;width:680px;height:auto;">
+<div style="width:680px;height:150px;margin:0px auto;padding-top:5px;">
+<div style="width:320px;height:150px;margin-top:0px;margin-left:5px;">
+<div style="width:320px;height:150px;background-color:#000;opacity:.4;">BG-BIT</div>
+
+<div style="width:215px;height:130px;margin-top:-140px;margin-left:95px;font-size:8px;font-family:Times;color:#eec;letter-spacing:1.1px;text-transform:uppercase;line-height:10px;opacity:.8;text-align:justify;overflow:hidden;">
+<div style="width:235px;height:130px;overflow:auto;">
+<div style="width:215px;height:130px;">
+<p style="margin-top:0px;margin-bottom:0px;"><b>traits :</b><em>&nbsp;THREE TO SIX TRAITS</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;">describe their relationship.</p>
+
+<p style="margin-top:5px;margin-bottom:0px;">the&nbsp;boxes will&nbsp;automatically become scroll-able as you write more.</p>
+
+<p style="margin-top:5px;margin-bottom:0px;">you can add more relationship boxes by copy-pasting a&nbsp;code snippet (<a href="https://pastebin.com/8DBdQdVx" rel="nofollow"><span style="color:#eeeecc;"><u><em>link</em></u></span></a>). search (ctrl+f) for the first line of the code snippet in the source here, then paste the snippet directly on top. unused boxes can be left blank or deleted.</p>
+</div>
+</div>
+</div>
+
+<div style="width:65px;height:45px;margin-top:-45px;margin-left:10px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:11px;opacity:.8;text-align:center;"><strong><span style="font-size:9px;">name of person</span></strong><br />
+<em>AGE<br />
+relation</em></div>
+</div>
+
+<div style="width:90px;height:90px;margin-top:-155px;margin-left:0px;background-color:#888;opacity:.9999;"><img alt="RELATION : 90x90" src="https://i.imgur.com/zp1idEG.png" style="width:90px;height:90px;" /></div>
+
+<div style="width:320px;height:150px;margin-top:-85px;margin-left:360px;">
+<div style="width:320px;height:150px;background-color:#000;opacity:.4;">BG-BIT</div>
+
+<div style="width:215px;height:130px;margin-top:-140px;margin-left:95px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:10px;opacity:.8;text-align:justify;overflow:hidden;">
+<div style="width:235px;height:130px;overflow:auto;">
+<div style="width:215px;height:130px;">
+<p style="margin-top:0px;margin-bottom:0px;"><b>traits :</b><em>&nbsp;THREE TO SIX TRAITS</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;">describe their relationship.</p>
+
+<p style="margin-top:5px;margin-bottom:0px;">the&nbsp;boxes will&nbsp;automatically become scroll-able as you write more.</p>
+</div>
+</div>
+</div>
+
+<div style="width:65px;height:45px;margin-top:-45px;margin-left:10px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:11px;opacity:.8;text-align:center;"><strong><span style="font-size:9px;">name of person</span></strong><br />
+<em>age<br />
+relation</em></div>
+</div>
+
+<div style="width:90px;height:90px;margin-top:-155px;margin-left:355px;background-color:#888;opacity:.9999;"><img alt="RELATION : 90x90" src="https://i.imgur.com/zp1idEG.png" style="width:90px;height:90px;" /></div>
+</div>
+
+<div style="width:680px;height:150px;margin:20px auto 0px auto;padding-top:5px;">
+<div style="width:320px;height:150px;margin-top:0px;margin-left:5px;">
+<div style="width:320px;height:150px;background-color:#000;opacity:.4;">BG-BIT</div>
+
+<div style="width:215px;height:130px;margin-top:-140px;margin-left:95px;font-size:8px;font-family:Times;color:#eec;letter-spacing:1.1px;text-transform:uppercase;line-height:10px;opacity:.8;text-align:justify;overflow:hidden;">
+<div style="width:235px;height:130px;overflow:auto;">
+<div style="width:215px;height:130px;">
+<p style="margin-top:0px;margin-bottom:0px;"><b>traits :</b><em>&nbsp;THREE TO SIX TRAITS</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;">describe their relationship.</p>
+
+<p style="margin-top:5px;margin-bottom:0px;">the&nbsp;boxes will&nbsp;automatically become scroll-able as you write more.</p>
+</div>
+</div>
+</div>
+
+<div style="width:65px;height:45px;margin-top:-45px;margin-left:10px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:11px;opacity:.8;text-align:center;"><strong><span style="font-size:9px;">name of person</span></strong><br />
+<em>AGE<br />
+relation</em></div>
+</div>
+
+<div style="width:90px;height:90px;margin-top:-155px;margin-left:0px;background-color:#eee;opacity:.9999;"><img alt="RELATION : 90x90" src="https://i.imgur.com/zp1idEG.png" style="width:90px;height:90px;" /></div>
+
+<div style="width:320px;height:150px;margin-top:-85px;margin-left:360px;">
+<div style="width:320px;height:150px;background-color:#000;opacity:.4;">BG-BIT</div>
+
+<div style="width:215px;height:130px;margin-top:-140px;margin-left:95px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:10px;opacity:.8;text-align:justify;overflow:hidden;">
+<div style="width:235px;height:130px;overflow:auto;">
+<div style="width:215px;height:130px;">
+<p style="margin-top:0px;margin-bottom:0px;"><b>traits :</b><em>&nbsp;THREE TO SIX TRAITS</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;">describe their relationship.</p>
+
+<p style="margin-top:5px;margin-bottom:0px;">the&nbsp;boxes will&nbsp;automatically become scroll-able as you write more.</p>
+</div>
+</div>
+</div>
+
+<div style="width:65px;height:45px;margin-top:-45px;margin-left:10px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:11px;opacity:.8;text-align:center;"><strong><span style="font-size:9px;">name of person</span></strong><br />
+<em>age<br />
+relation</em></div>
+</div>
+
+<div style="width:90px;height:90px;margin-top:-155px;margin-left:355px;background-color:#888;opacity:.9999;"><img alt="RELATION : 90x90" src="https://i.imgur.com/zp1idEG.png" style="width:90px;height:90px;" /></div>
+</div>
+
+<div style="width:680px;height:150px;margin:20px auto 0px auto;padding-top:5px;">
+<div style="width:320px;height:150px;margin-top:0px;margin-left:5px;">
+<div style="width:320px;height:150px;background-color:#000;opacity:.4;">BG-BIT</div>
+
+<div style="width:215px;height:130px;margin-top:-140px;margin-left:95px;font-size:8px;font-family:Times;color:#eec;letter-spacing:1.1px;text-transform:uppercase;line-height:10px;opacity:.8;text-align:justify;overflow:hidden;">
+<div style="width:235px;height:130px;overflow:auto;">
+<div style="width:215px;height:130px;">
+<p style="margin-top:0px;margin-bottom:0px;"><b>traits :</b><em>&nbsp;THREE TO SIX TRAITS</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;">describe their relationship.</p>
+
+<p style="margin-top:5px;margin-bottom:0px;">the&nbsp;boxes will&nbsp;automatically become scroll-able as you write more.</p>
+</div>
+</div>
+</div>
+
+<div style="width:65px;height:45px;margin-top:-45px;margin-left:10px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:11px;opacity:.8;text-align:center;"><strong><span style="font-size:9px;">name of person</span></strong><br />
+<em>AGE<br />
+relation</em></div>
+</div>
+
+<div style="width:90px;height:90px;margin-top:-155px;margin-left:0px;background-color:#eee;opacity:.9999;"><img alt="RELATION : 90x90" src="https://i.imgur.com/zp1idEG.png" style="width:90px;height:90px;" /></div>
+
+<div style="width:320px;height:150px;margin-top:-85px;margin-left:360px;">
+<div style="width:320px;height:150px;background-color:#000;opacity:.4;">BG-BIT</div>
+
+<div style="width:215px;height:130px;margin-top:-140px;margin-left:95px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:10px;opacity:.8;text-align:justify;overflow:hidden;">
+<div style="width:235px;height:130px;overflow:auto;">
+<div style="width:215px;height:130px;">
+<p style="margin-top:0px;margin-bottom:0px;"><b>traits :</b><em>&nbsp;THREE TO SIX TRAITS</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;">describe their relationship.</p>
+
+<p style="margin-top:5px;margin-bottom:0px;">the&nbsp;boxes will&nbsp;automatically become scroll-able as you write more.</p>
+</div>
+</div>
+</div>
+
+<div style="width:65px;height:45px;margin-top:-45px;margin-left:10px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:11px;opacity:.8;text-align:center;"><strong><span style="font-size:9px;">name of person</span></strong><br />
+<em>age<br />
+relation</em></div>
+</div>
+
+<div style="width:90px;height:90px;margin-top:-155px;margin-left:355px;background-color:#888;opacity:.9999;"><img alt="RELATION : 90x90" src="https://i.imgur.com/zp1idEG.png" style="width:90px;height:90px;" /></div>
+</div>
+
+<div style="width:680px;height:150px;margin:20px auto 0px auto;padding-top:5px;">
+<div style="width:320px;height:150px;margin-top:0px;margin-left:5px;">
+<div style="width:320px;height:150px;background-color:#000;opacity:.4;">BG-BIT</div>
+
+<div style="width:215px;height:130px;margin-top:-140px;margin-left:95px;font-size:8px;font-family:Times;color:#eec;letter-spacing:1.1px;text-transform:uppercase;line-height:10px;opacity:.8;text-align:justify;overflow:hidden;">
+<div style="width:235px;height:130px;overflow:auto;">
+<div style="width:215px;height:130px;">
+<p style="margin-top:0px;margin-bottom:0px;"><b>traits :</b><em>&nbsp;THREE TO SIX TRAITS</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;">describe their relationship.</p>
+
+<p style="margin-top:5px;margin-bottom:0px;">the&nbsp;boxes will&nbsp;automatically become scroll-able as you write more.</p>
+</div>
+</div>
+</div>
+
+<div style="width:65px;height:45px;margin-top:-45px;margin-left:10px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:11px;opacity:.8;text-align:center;"><strong><span style="font-size:9px;">name of person</span></strong><br />
+<em>AGE<br />
+relation</em></div>
+</div>
+
+<div style="width:90px;height:90px;margin-top:-155px;margin-left:0px;background-color:#eee;opacity:.9999;"><img alt="RELATION : 90x90" src="https://i.imgur.com/zp1idEG.png" style="width:90px;height:90px;" /></div>
+
+<div style="width:320px;height:150px;margin-top:-85px;margin-left:360px;">
+<div style="width:320px;height:150px;background-color:#000;opacity:.4;">BG-BIT</div>
+
+<div style="width:215px;height:130px;margin-top:-140px;margin-left:95px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:10px;opacity:.8;text-align:justify;overflow:hidden;">
+<div style="width:235px;height:130px;overflow:auto;">
+<div style="width:215px;height:130px;">
+<p style="margin-top:0px;margin-bottom:0px;"><b>traits :</b><em>&nbsp;THREE TO SIX TRAITS</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;">describe their relationship.</p>
+
+<p style="margin-top:5px;margin-bottom:0px;">the&nbsp;boxes will&nbsp;automatically become scroll-able as you write more.</p>
+</div>
+</div>
+</div>
+
+<div style="width:65px;height:45px;margin-top:-45px;margin-left:10px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:11px;opacity:.8;text-align:center;"><strong><span style="font-size:9px;">name of person</span></strong><br />
+<em>age<br />
+relation</em></div>
+</div>
+
+<div style="width:90px;height:90px;margin-top:-155px;margin-left:355px;background-color:#888;opacity:.9999;"><img alt="RELATION : 90x90" src="https://i.imgur.com/zp1idEG.png" style="width:90px;height:90px;" /></div>
+</div>
+
+<div style="width:680px;height:150px;margin:20px auto 0px auto;padding-top:5px;">
+<div style="width:320px;height:150px;margin-top:0px;margin-left:5px;">
+<div style="width:320px;height:150px;background-color:#000;opacity:.4;">BG-BIT</div>
+
+<div style="width:215px;height:130px;margin-top:-140px;margin-left:95px;font-size:8px;font-family:Times;color:#eec;letter-spacing:1.1px;text-transform:uppercase;line-height:10px;opacity:.8;text-align:justify;overflow:hidden;">
+<div style="width:235px;height:130px;overflow:auto;">
+<div style="width:215px;height:130px;">
+<p style="margin-top:0px;margin-bottom:0px;"><b>traits :</b><em>&nbsp;THREE TO SIX TRAITS</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;">describe their relationship.</p>
+
+<p style="margin-top:5px;margin-bottom:0px;">the&nbsp;boxes will&nbsp;automatically become scroll-able as you write more.</p>
+</div>
+</div>
+</div>
+
+<div style="width:65px;height:45px;margin-top:-45px;margin-left:10px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:11px;opacity:.8;text-align:center;"><strong><span style="font-size:9px;">name of person</span></strong><br />
+<em>AGE<br />
+relation</em></div>
+</div>
+
+<div style="width:90px;height:90px;margin-top:-155px;margin-left:0px;background-color:#eee;opacity:.9999;"><img alt="RELATION : 90x90" src="https://i.imgur.com/zp1idEG.png" style="width:90px;height:90px;" /></div>
+
+<div style="width:320px;height:150px;margin-top:-85px;margin-left:360px;">
+<div style="width:320px;height:150px;background-color:#000;opacity:.4;">BG-BIT</div>
+
+<div style="width:215px;height:130px;margin-top:-140px;margin-left:95px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:10px;opacity:.8;text-align:justify;overflow:hidden;">
+<div style="width:235px;height:130px;overflow:auto;">
+<div style="width:215px;height:130px;">
+<p style="margin-top:0px;margin-bottom:0px;"><b>traits :</b><em>&nbsp;THREE TO SIX TRAITS</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;">describe their relationship.</p>
+
+<p style="margin-top:5px;margin-bottom:0px;">the&nbsp;boxes will&nbsp;automatically become scroll-able as you write more.</p>
+</div>
+</div>
+</div>
+
+<div style="width:65px;height:45px;margin-top:-45px;margin-left:10px;font-size:8px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;line-height:11px;opacity:.8;text-align:center;"><strong><span style="font-size:9px;">name of person</span></strong><br />
+<em>age<br />
+relation</em></div>
+</div>
+
+<div style="width:90px;height:90px;margin-top:-155px;margin-left:355px;background-color:#888;opacity:.9999;"><img alt="RELATION : 90x90" src="https://i.imgur.com/zp1idEG.png" style="width:90px;height:90px;" /></div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="width:50px;height:30px;margin-top:-300px;margin-left:65px;font-size:18px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;text-align:center;opacity:.9;"><strong>【4】</strong></div>
+</div>
+
+<div style="float:left;width:760px;height:400px;">
+<div style="width:580px;height:310px;margin:50px auto 0px auto;background:#000;opacity:.35;">,</div>
+
+<div style="width:580px;height:265px;margin:-290px auto;overflow:hidden;opacity:.8;">
+<div style="width:600px;height:265px;overflow:auto;">
+<div style="float:left;width:500px;height:auto;padding:0px 40px;font-size:8px;font-family:Times;color:rgb(255,255,221);letter-spacing:1.1px;text-transform:uppercase;text-align:justify;">
+<p style="margin-top:85px;margin-bottom:0px;text-align:left;"><strong>LOVE INTEREST #1 :</strong><em>&nbsp;name with title and which kingdom they&#39;re from</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>faceclaim :</strong><em>&nbsp;---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>BIRTHDAY &amp; AGE :</strong><em> MONTH DATE (AGE)</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>gender :</strong><em> ---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>personality&nbsp;:</strong><em>&nbsp;traits or brief paragraph(s)</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>background :</strong><em> brief paragraph(S)</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>the before&nbsp;:</strong><em>&nbsp;if they&#39;ve met prior to the story starting, describe their interactions and relationship.&nbsp;married? friends? complicated?&nbsp;</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>the love story :</strong><em> how will this relationship&nbsp;develop as the story proceeds?</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>ending&nbsp;:</strong><em>&nbsp;how you want them to end up. this is also optional.</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;text-align:center;"><em>/ / /</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;text-align:left;"><strong style="text-align:left;letter-spacing:1.1px;">LOVE INTEREST #2&nbsp;:</strong><em style="text-align:left;letter-spacing:1.1px;">&nbsp;name, kingdom &ndash; optional</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;text-align:left;"><strong style="letter-spacing:1.1px;">faceclaim :</strong><em style="letter-spacing:1.1px;"> </em><em style="letter-spacing:1.1px;">---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>BIRTHDAY &amp; AGE :</strong><em> MONTH DATE (AGE)</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>gender :</strong><em> ---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>personality&nbsp;:</strong><em>&nbsp;traits or brief paragraph(s)</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>background :</strong><em> brief paragraph(S)</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>the before&nbsp;:</strong><em>&nbsp;how did they meet and interact&nbsp;<u>prior to</u>&nbsp;the story beginning?</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>the love story :</strong><em> how will this relationship&nbsp;develop as the story proceeds?</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>ending&nbsp;:</strong><em>&nbsp;how you want them to end up. this is also optional.</em></p>
+</div>
+</div>
+</div>
+
+<div style="width:50px;height:30px;margin-top:10px;margin-left:65px;font-size:18px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;text-align:center;opacity:.9;"><strong>【5】</strong></div>
+
+<div style="width:auto;height:100px;margin-top:-45px;opacity:.9999;text-align:center;"><img alt="LOVE INTEREST : ANYx90" src="https://i.imgur.com/LNe6Uy6.png" style="width:90px;height:90px;margin:0px 3px;border:1px solid rgb(238,238,204);padding:3px;opacity:.8;" /><img alt="LOVE INTEREST : ANYx90" src="https://i.imgur.com/LNe6Uy6.png" style="width:90px;height:90px;margin:0px 3px;border:1px solid rgb(238,238,204);padding:3px;opacity:.8;" /><img alt="LOVE INTEREST : ANYx90" src="https://i.imgur.com/LNe6Uy6.png" style="width:90px;height:90px;margin:0px 3px;border:1px solid rgb(238,238,204);padding:3px;opacity:.8;" /></div>
+</div>
+
+<div style="float:left;width:760px;height:400px;">
+<div style="width:580px;height:300px;margin:50px auto 0px auto;background:#000;opacity:.35;">,</div>
+
+<div style="width:580px;height:260px;margin:-280px auto;overflow:hidden;opacity:.8;">
+<div style="width:600px;height:260px;overflow:auto;">
+<div style="float:left;width:500px;height:auto;padding:0px 40px;font-size:8px;font-family:Times;color:rgb(255,255,221);letter-spacing:1.1px;text-transform:uppercase;text-align:justify;">
+<p style="margin-top:30px;margin-bottom:0px;text-align:center;"><span style="font-size:14px;"><strong>alias</strong></span><span style="font-size:9px;"><strong>&nbsp;</strong></span>(<em>activity rate.</em>)</p>
+
+<p style="margin-top:-3px;margin-bottom:0px;text-align:center;"><em>❝ last character quote. max length: one line.&nbsp;❞</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;text-align:center;">/ / /</p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>comments :</strong><em>&nbsp;---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>scene requests :</strong><em>&nbsp;</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【1】:</strong>&nbsp;<em>---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【2】:</strong>&nbsp;<em>---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;margin-left:20px;text-align:left;"><strong>【3】:</strong>&nbsp;<em>---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;"><strong>password :</strong><em> ---</em></p>
+
+<p style="margin-top:5px;margin-bottom:0px;">&nbsp;</p>
+</div>
+</div>
+</div>
+
+<div style="width:50px;height:30px;margin-top:10px;margin-left:65px;font-size:18px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;text-align:center;opacity:.9;"><strong>【6】</strong></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="width:775px;height:20px;margin:-389px auto 0px auto;padding-left:25px;font-size:8px;line-height:7px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;text-align:left;opacity:.999;"><br />
+<a href="https://www.asianfanfics.com/story/view/1324693/businey-1-new-theme-all-aboard-the-true-true-chain-applyfic"><span style="color:#ffffdd;">❊ VIO ❊</span></a></div>
+
+<div style="width:775px;height:20px;margin:341px auto 40px auto;padding-right:25px;font-size:8px;line-height:7px;font-family:Times;color:#ffd;letter-spacing:1.1px;text-transform:uppercase;text-align:right;opacity:.999;"><br />
+<a href="https://www.asianfanfics.com/story/view/1324693/businey-1-new-theme-all-aboard-the-true-true-chain-applyfic"><span style="color:#ffffdd;">❊ VIO ❊</span></a></div>
